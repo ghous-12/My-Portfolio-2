@@ -691,7 +691,7 @@ footer {
         align-content: center;
         text-decoration: none;
         padding: 2rem;
-        height: 100vh;
+        height: 50vh;
         width: 80vw;
         padding-top: 10px;
     }
@@ -718,7 +718,7 @@ footer {
         padding: 0px;
         margin: 0px 60px;
         position: absolute;
-        height: 80vh;
+        height: 50vh;
         width: 70vw;
     }
     
